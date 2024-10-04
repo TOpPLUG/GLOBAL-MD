@@ -1,6 +1,6 @@
-//YouTube: @GlobalTechInfo
-//GitHub: @GlobalTechInfo
-//subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @cyberpunk
+//GitHub: @TOpPLUG
+//subscribe to my youtube channel: https://youtube.com/@cyberpunk
 
 process.on('unhandledRejection', console.error)
 process.on('uncaughtException', console.error)
@@ -972,22 +972,22 @@ const xdate = moment.tz('Asia/Karachi').locale('en-PK').format('DD/MM/YYYY');
 const xtime = moment().tz('Asia/Karachi').locale('en-PK').format('HH:mm:ss');
 const time2 = moment().tz('Asia/Karachi').format('HH:mm:ss')  
 if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night 🌌`
+var xeonytimewisher = `Nightmares & Glitches🌌`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Must be the daaaaaaaamn 🍪🍪,, GOD MODE activated 🧑‍💻🏂🥷📱🏦🌃`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Puffs, Backshots & shots🥃🥂🍪🍫 🌃`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `Good Afternoon 🌅`
+var xeonytimewisher = `it's almost 4:20, plug walk 🧑‍💻, let's lit one for the....😵‍💫 cookies & shawty😵🌅`
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `we lit🛫 🌄`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `Wake yo ass up and get the 💵💴💶💷💳💰🌄`
  } 
 
 //theme txt
